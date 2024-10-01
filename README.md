@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cheeou
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java,JavaScript,Python,SQL..etc
-- 💞️ I’m looking to collaborate on ##
+
 - 📫 How to reach me best.coder.jiwoo@gmail.com
 
 <!---
